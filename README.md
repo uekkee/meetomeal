@@ -1,8 +1,8 @@
 # README
 
-[![ruby](https://github.com/uekkee/meetomeal/workflows/ruby/badge.svg)](https://github.com/uekkee/photter/actions)
-[![javascript](https://github.com/uekkee/meetomeal/workflows/javascript/badge.svg)](https://github.com/uekkee/photter/actions)
-[![Pronto](https://github.com/uekkee/meetomeal/workflows/Pronto/badge.svg)](https://github.com/uekkee/photter/actions)
+[![ruby](https://github.com/uekkee/meetomeal/workflows/ruby/badge.svg)](https://github.com/uekkee/meetomeal/actions)
+[![javascript](https://github.com/uekkee/meetomeal/workflows/javascript/badge.svg)](https://github.com/uekkee/meetomeal/actions)
+[![Pronto](https://github.com/uekkee/meetomeal/workflows/Pronto/badge.svg)](https://github.com/uekkee/meetomeal/actions)
 
 
 This README would normally document whatever steps are necessary to get the
