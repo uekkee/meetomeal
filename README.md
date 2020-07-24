@@ -1,5 +1,8 @@
 # README
 
+[![ruby](https://github.com/uekkee/meetomeal/workflows/ruby/badge.svg)](https://github.com/uekkee/photter/actions)
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
